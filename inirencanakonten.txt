@@ -2,10 +2,11 @@ RENCANA KONTENT KODING
 -BUAT VIDEO MENGENAI JS
   *ES6
   *Dll
-  *angular
-  *react
+  *vue
+  *react 
 -BUAT VIDEO MENGENAI FRAMEWORK
- *laravel
+  *laravel
 -BUAT VIDEO ITNERVIEW
 -BUAT VIDEO VLOG
-
+-Fundamental data structure
+-BUAT VIDEO PHYTON
