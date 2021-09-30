@@ -3,7 +3,7 @@ RENCANA KONTENT KODING
   *ES6
   *Dll
   *vue
-  *react
+  *react 
 -BUAT VIDEO MENGENAI FRAMEWORK
   *laravel
 -BUAT VIDEO ITNERVIEW
