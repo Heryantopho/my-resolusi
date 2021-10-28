@@ -4,6 +4,7 @@ RENCANA KONTENT KODING
   *Dll
   *vue
   *react 
+  *tambahan terbaru oktober
 -BUAT VIDEO MENGENAI FRAMEWORK
   *laravel
 -BUAT VIDEO ITNERVIEW
